@@ -21,3 +21,5 @@
 6. We can specify single entity inside a fetch request. No multiple entities allowed.
 7. It's good practice to check whether a managed object context has any changes before saving.
 8. To ensure an attribute is unique, we can use constraints.
+
+- Solved end-of-unit [challenges](https://www.hackingwithswift.com/books/ios-swiftui/core-data-wrap-up) in this [repo](https://github.com/D-Antonelli/CoreDataPlayground)
