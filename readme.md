@@ -1,9 +1,11 @@
-# 100 Days Of Swift UI 
+# 100 Days Of Swift UI
+
+## Progress
 
 ![](https://geps.dev/progress/62)
 
-# Day to day notes about what I've learned
+## Day to day notes about what I've learned
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
 
-# Projects
+## Projects
 Will follow soon!
