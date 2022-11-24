@@ -5,5 +5,5 @@
 # Day to day notes about what I've learned
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
 
-#Projects
+# Projects
 Will follow soon!
