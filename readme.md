@@ -2,7 +2,7 @@
 
 ## Progress
 67/100
-![](https://geps.dev/progress/63)
+![](https://geps.dev/progress/67)
 
 ## Day to day notes about what I've learned
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
