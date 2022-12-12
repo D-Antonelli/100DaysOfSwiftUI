@@ -1,8 +1,8 @@
 # 100 Days Of Swift UI
 
 ## Progress
-69/100
-![](https://geps.dev/progress/69)
+70/100
+![](https://geps.dev/progress/70)
 
 ## Day to day notes about what I've learned
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
