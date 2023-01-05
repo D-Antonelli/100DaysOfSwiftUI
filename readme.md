@@ -1,4 +1,4 @@
-# 100 Days Of Swift UI
+# 100 Days Of SwiftUI
 
 ## Progress
 73/100
