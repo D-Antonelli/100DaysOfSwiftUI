@@ -25,3 +25,5 @@ https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
 - [Habit Tracker](https://github.com/D-Antonelli/habit-tracker)
 - [Country App](https://github.com/D-Antonelli/CountryApp)
 - [Accessibility Sandbox](https://github.com/D-Antonelli/AccessibilitySandbox)
+- [NameWhisperer](https://github.com/D-Antonelli/NameWhisperer)
+- [HotProspects](https://github.com/D-Antonelli/HotProspects)
