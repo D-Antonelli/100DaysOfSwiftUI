@@ -6,7 +6,7 @@
 ## Day to day notes about what I've learned
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
 
-## Exercise Projects
+## Projects
 - [We Split](https://github.com/D-Antonelli/WeSplit)
 - [Rock Paper Scissors](https://github.com/D-Antonelli/Rock-Paper-Scissors-)
 - [Better Rest](https://github.com/D-Antonelli/BetterRest)
