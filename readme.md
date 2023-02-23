@@ -4,7 +4,7 @@
 ![](https://geps.dev/progress/84)
 
 ## Study notes
-https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
+[https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki](https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki/Day-84)
 
 ## Projects
 - [We Split](https://github.com/D-Antonelli/WeSplit)
