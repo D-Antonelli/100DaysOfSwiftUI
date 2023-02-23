@@ -3,7 +3,7 @@
 ## Progress
 ![](https://geps.dev/progress/84)
 
-## Day to day notes about what I've learned
+## Study notes
 https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki
 
 ## Projects
