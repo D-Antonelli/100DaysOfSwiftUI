@@ -1,10 +1,10 @@
 # 100 Days Of SwiftUI
 
 ## Progress
-![](https://geps.dev/progress/94)
+![](https://geps.dev/progress/95)
 
 ## Study notes
-[https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki](https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki/Day-94)
+[https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki](https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki/Day-95)
 
 ## Projects
 - [We Split](https://github.com/D-Antonelli/WeSplit)
