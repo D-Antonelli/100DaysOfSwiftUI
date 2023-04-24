@@ -30,3 +30,4 @@
 - [Flashzilla](https://github.com/D-Antonelli/Flashzilla)
 - [Layout and Geometry](https://github.com/D-Antonelli/LayoutAndGeometry)
 - [Roll The Dice](https://github.com/D-Antonelli/RollTheDice)
+- [Snow Seeker](https://github.com/D-Antonelli/SnowSeeker)
