@@ -1,7 +1,9 @@
 # 100 Days Of SwiftUI
 
-## Progress
-![](https://geps.dev/progress/100)
+## Certificate
+
+![certificate](https://github.com/D-Antonelli/100DaysOfSwiftUI/assets/49251832/9950b332-ff65-4cdc-8c15-a96e02e49ea8)
+
 
 ## Study notes
 [https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki](https://github.com/D-Antonelli/100DaysOfSwiftUI/wiki/Day-95)
